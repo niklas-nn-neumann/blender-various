@@ -1,0 +1,4 @@
+sculpting2.blend filter=lfs diff=lfs merge=lfs -text
+monkey.blend filter=lfs diff=lfs merge=lfs -text
+niklas1.blend filter=lfs diff=lfs merge=lfs -text
+sculpting1.blend filter=lfs diff=lfs merge=lfs -text
